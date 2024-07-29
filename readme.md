@@ -1,6 +1,6 @@
 # ArtCNN-PyTorch
 ### References:
-Training code from [NeoSR](https://github.com/muslll/neosr)
+Training code from [NeoSR](https://github.com/muslll/neosr) [LICENSE](https://github.com/muslll/neosr/blob/master/license.txt)
 
 Original code [ArtCNN](https://github.com/Artoriuz/ArtCNN/tree/main)
 
