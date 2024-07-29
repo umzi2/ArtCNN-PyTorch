@@ -228,7 +228,7 @@ Datasets made by the upscaling community. More info can be found in author's rep
 
 ## 📄 license and acknowledgements
 
-Released under the [Apache license](license.txt).
+Released under the [Apache license](license_neosr.txt).
 All licenses listed on [license/readme](license/readme.md).
 This code was originally based on [BasicSR](https://github.com/XPixelGroup/BasicSR). 
 
